@@ -15,7 +15,3 @@ def doubleEven(n):
 
 print(doubleEven(10))
 print(doubleEven(5))
-#if not user_input.isdigit():
- #   print("Please enter a number next time.")
-  #  exit()
-#user_input = int

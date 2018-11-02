@@ -10,6 +10,7 @@ def sumDice(Dice, Numrolls):
         sum_dice = sum_dice + random.randint(1, Dice)
     return sum_dice
 
-print(sumDice(2, 3))
-print(sumDice(2, 3))
-print(sumDice(2, 3))
+
+print(sumDice(4, 3))
+print(sumDice(4, 3))
+print(sumDice(4, 3))
