@@ -9,8 +9,7 @@ def doubleEven(n):
         else:
             return -1
     else:
-        print("Please enter a valid input.")
-        exit()
+        return "Please enter a valid input."
 
 
 print(doubleEven(10))
